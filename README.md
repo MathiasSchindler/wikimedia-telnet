@@ -1,4 +1,4 @@
-This source code is mostly AI generated (claude.ai) and as such noch subject to copyright protection. 
+This source code is mostly AI generated (claude.ai) and as such not subject to copyright protection. 
 
 It is not meant for production use and should be considered unsafe.
 
